@@ -20,7 +20,7 @@ Built with Node.js backend + React frontend.
 ### Quick Start (Windows)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/system-monitor.git
+   git clone https://github.com/PraagyaLamsal/simple-system-monitor.git
    cd system-monitor
 2. Double Click:
    ```bash
