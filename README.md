@@ -1,4 +1,4 @@
-# System Monitor
+# Simple System Monitor by Praagya
 
 A real-time system monitoring program that collects and displays live CPU, GPU, memory, disk, and network usage data.  
 Built with Node.js backend + React frontend.
@@ -17,7 +17,7 @@ Built with Node.js backend + React frontend.
 ### Prerequisites
 - Node.js (LTS)
 
-### Quick Start (Windows)
+#### Quick Start (Windows)
 1. Clone the repository:
    ```bash
    git clone https://github.com/PraagyaLamsal/simple-system-monitor.git
