@@ -1,4 +1,4 @@
-# Simple System Monitor by Praagya
+# Simple System Monitor
 
 A real-time system monitoring program that collects and displays live CPU, GPU, memory, disk, and network usage data.  
 Built with Node.js backend + React frontend.
