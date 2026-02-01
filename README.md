@@ -17,7 +17,7 @@ Built with Node.js backend + React frontend.
 ### Prerequisites
 - Node.js (LTS)
 
-#### Quick Start (Windows)
+### Quick Start (Windows)
 1. Clone the repository:
    ```bash
    git clone https://github.com/PraagyaLamsal/simple-system-monitor.git
@@ -25,3 +25,6 @@ Built with Node.js backend + React frontend.
 2. Double Click:
    ```bash
    start.bat
+
+### Contact:
+- LinkedIn: linkedin.com/in/praagya-lamsal/
